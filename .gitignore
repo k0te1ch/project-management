@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Office temp files
+~$*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor and assistant artifacts
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.planning/
+.cursor/
+.cursorrules
+.cursorignore
+.aider*
+.windsurf/
+.continue/
+.github/copilot-instructions.md
+.codeium/
+.gemini/
+.roo/
+.clinerules
+GEMINI.md
+AGENTS.md
+.mcp.json
+.aislop/
+AISLOP.md
